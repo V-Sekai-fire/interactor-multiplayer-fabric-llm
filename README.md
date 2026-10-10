@@ -16,4 +16,4 @@ mix compile
 
 ## Licence
 
-MIT, as the SPDX headers state; there is no LICENSE file.
+MIT. See [LICENSE](LICENSE).
